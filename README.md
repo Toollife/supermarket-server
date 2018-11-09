@@ -5,8 +5,8 @@ Simple web scraper to get a movie name, release year and community rating from I
 To run this example use the following commands:
 
 ``` shell
-$ npm install
+$ yarn
 $ node index.js
 ```
 
- Then it will start up our node server, navigate to http://localhost:8081/product:ean and see what happens.
+ Then it will start up our node server, navigate to http://localhost:3000/product:ean and see what happens.
