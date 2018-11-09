@@ -1,0 +1,19 @@
+{
+  "name": "obi-wan-que-no-te-timen",
+  "version": "0.0.1",
+  "description": "obi-wan-que-no-te-timen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "./node_modules/nodemon/bin/nodemon.js index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "latest",
+    "cors": "^2.8.5",
+    "express": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
